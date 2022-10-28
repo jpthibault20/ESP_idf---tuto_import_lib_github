@@ -1,0 +1,16 @@
+dependencies:
+  LTG:
+    component_hash: d953efa60451bd9f9b22fcaff02ff5e429f0ece817283e7d235bf1801554f59c
+    source:
+      git: https://github.com/jpthibault20/example__cmp.git
+      path: .
+      type: git
+    version: 42e30212db20ea332cfe35139d29abd2b9140e0c
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 4.4.2
+manifest_hash: 5ec3d71c2f48507df33ba95a88044dc909677c5ea2ea2641b24c0b5c411fd488
+target: esp32s3
+version: 1.0.0
