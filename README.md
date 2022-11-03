@@ -52,7 +52,7 @@ in your `main.c` for call `cmp.h` use the complete link for exemple :
 ```C
 #include "cmp.h"
 // becom 
-#include "C:\Users\tjean\Documents\esp_workspace_idf\sample_project\managed_components\LTG\include\cmp.h"
+#include "..\managed_components\LTG\include\cmp.h"
 ```
 
 For set flash size, type `Serial flasher config` and set goods settings (flash size & enable octal flash ☑)
