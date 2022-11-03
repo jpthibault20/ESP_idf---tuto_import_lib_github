@@ -4,6 +4,14 @@ This component is an example, to be used with the IDF component manager.
 
 To use it with your ESP-IDF project make sure that [the component manager](https://pypi.org/project/idf-component-manager/) is installed and create the manifest `idf_component.yml` in the project's `main` component directory:
 
+for creat `idf_component.yml` :
+
+```yaml
+idf.py create-manifest
+```
+
+Then in the manifest, are contained :
+
 ```yaml
 dependencies:
   example/cmp: "^3.3.3"
