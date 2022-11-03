@@ -1,13 +1,13 @@
 # Target labels
  bootloader
 # Source files and their labels
-C:/Users/tjean/Documents/esp_workspace_idf/test_lib_github/build/CMakeFiles/bootloader
-C:/Users/tjean/Documents/esp_workspace_idf/test_lib_github/build/CMakeFiles/bootloader.rule
-C:/Users/tjean/Documents/esp_workspace_idf/test_lib_github/build/CMakeFiles/bootloader-complete.rule
-C:/Users/tjean/Documents/esp_workspace_idf/test_lib_github/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
-C:/Users/tjean/Documents/esp_workspace_idf/test_lib_github/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
-C:/Users/tjean/Documents/esp_workspace_idf/test_lib_github/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
-C:/Users/tjean/Documents/esp_workspace_idf/test_lib_github/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
-C:/Users/tjean/Documents/esp_workspace_idf/test_lib_github/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
-C:/Users/tjean/Documents/esp_workspace_idf/test_lib_github/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
-C:/Users/tjean/Documents/esp_workspace_idf/test_lib_github/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+C:/Users/tjean/Documents/esp_workspace_idf/ESP_idf - tuto_import_lib_github/build/CMakeFiles/bootloader
+C:/Users/tjean/Documents/esp_workspace_idf/ESP_idf - tuto_import_lib_github/build/CMakeFiles/bootloader.rule
+C:/Users/tjean/Documents/esp_workspace_idf/ESP_idf - tuto_import_lib_github/build/CMakeFiles/bootloader-complete.rule
+C:/Users/tjean/Documents/esp_workspace_idf/ESP_idf - tuto_import_lib_github/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/tjean/Documents/esp_workspace_idf/ESP_idf - tuto_import_lib_github/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/tjean/Documents/esp_workspace_idf/ESP_idf - tuto_import_lib_github/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/tjean/Documents/esp_workspace_idf/ESP_idf - tuto_import_lib_github/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/tjean/Documents/esp_workspace_idf/ESP_idf - tuto_import_lib_github/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/tjean/Documents/esp_workspace_idf/ESP_idf - tuto_import_lib_github/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/tjean/Documents/esp_workspace_idf/ESP_idf - tuto_import_lib_github/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

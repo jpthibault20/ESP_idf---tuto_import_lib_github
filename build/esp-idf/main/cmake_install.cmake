@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/tjean/Documents/esp_workspace_idf/test_lib_github/main
+# Install script for directory: C:/Users/tjean/Documents/esp_workspace_idf/ESP_idf - tuto_import_lib_github/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
